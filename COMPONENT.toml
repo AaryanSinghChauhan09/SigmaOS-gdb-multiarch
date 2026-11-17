@@ -3,7 +3,7 @@ name = "SigmaOS-gdb-multiarch"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gdb-multiarch component"
+description = "SigmaOS SigmaOS-gdb-multiarch component"
 upstream = []
 
 [contract]
